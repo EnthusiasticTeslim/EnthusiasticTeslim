@@ -8,7 +8,7 @@ I am a Chemical Engineering PhD student utilizing the benefits of machine learni
 - 🌱 I’m currently learning Deep Learning and physics-based modeling of electrochemical systems
 
 ### More
-+ Website: [teslim404.com](https://teslim404.com/)
++ Website: [teslim404.com](https://teslim404.com/){:target="_blank"}
 + Email: tolayi1@lsu.edu
 + LinkedIn: [Teslim Olayiwola](https://www.linkedin.com/in/teslim-olayiwola-58a997123/)
 + Twitter: [teslim404](https://twitter.com/teslim404)
