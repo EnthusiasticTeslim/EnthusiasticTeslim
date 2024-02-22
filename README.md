@@ -5,7 +5,7 @@ I am a Chemical Engineering PhD student utilizing the benefits of machine learni
                              - Mahatma Gandhi
 
 - 🔭 seeking to build data-driven models for real-world applications
-- 🌱 I’m currently learning Deep Learning and physics-based modeling of electrochemical systems
+- 🌱 I’m currently learning and developing Deep Learning and physics-based models for materials (small molecules like solvent, ions; big molecules like surfactant, polymers) and processes (like electrodialysis, electrodeionization, capacitive deionization).
 
 ### More
 + Website: [teslim404.com](https://teslim404.com/) 
