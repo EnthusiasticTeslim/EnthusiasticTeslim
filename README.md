@@ -15,6 +15,16 @@ I am a **Chemical Engineering PhD candidate** at LSU in [Romagnoli Group](https:
 - Molecular Simulation of Materials
 - Machine Learned Force Field (MLFF) development
 
+# Skills
+- Languages: Python, MATLAB
+- Machine learning: Scikit-Learn, TensorFlow, Keras, PyTorch, MLflow, Docker, Streamlit, PySpark
+- Chemical Eng. & Chemistry: Aspen Plus, GROMACS, LAMMPS, Gaussian, Rdkit, Deep Graph Library (dgl).
+- Platforms: Linux, Git
+- Soft Skills: Research, Leadership, Event Management
+- Proficiency in the use of Microsoft Office Power Point, Word, Excel, and JMP
+- Synthesis & characterization: Nanocrystals synthesis, catalyst synthesis, X-ray diffraction (XRD), Diffuse Reflectance IR Fourier Transform Spectroscopy (DRIFTS), UV etching and Design of Experiment.
+
+
 # Open Source Works:
 - Bridging Physics and Data-Driven: Developed numerical model and data-driven model to perform optimization studies for two common electrochemical systems (electrodialysis and electrodeionization). [In preparation](https://github.com/EnthusiasticTeslim/HybridEOS)
 - Transfer Learning for missing data: assess the possibility of resolving missing data with transfer learning. [Code](https://github.com/EnthusiasticTeslim/ImputeNet)
