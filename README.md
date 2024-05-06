@@ -27,6 +27,7 @@ I am a **Chemical Engineering PhD candidate** at LSU in [Romagnoli Group](https:
 
 # Open Source Works:
 - Bridging Physics and Data-Driven: Developed numerical model and data-driven model to perform optimization studies for two common electrochemical systems (electrodialysis and electrodeionization). [In preparation](https://github.com/EnthusiasticTeslim/HybridEOS)
+- Physicis Informed Machine learning: Developing PINN and Neural ODE to resolve limitations of physics ODEs in capturing selective ion separation in electrodialysis. [In preparation](https://github.com/EnthusiasticTeslim/separationPINN)
 - Transfer Learning for missing data: assess the possibility of resolving missing data with transfer learning. [Code](https://github.com/EnthusiasticTeslim/ImputeNet)
 - Feature Embedding: Combined information from experiment, molecular structure and molecular simulation with machine learning to enhance predictive modeling of membrane properties. [Code](https://github.com/ghisha1/ACTC_MD_ML)
 - Generative Molecular Design: Combined generative artificial intelligence (AI), predictive modeling, reinforcement learning and molecular dynamics to create molecules with desired properties. [Code](https://github.com/mnnad/Generative_AI_surfactants_molecules)
