@@ -4,12 +4,18 @@ I am a **Chemical Engineering PhD candidate** at LSU in [Romagnoli Group](https:
          "Live as if you were to die tomorrow. Learn as if you were to live forever" 
                              - Mahatma Gandhi
 
-- 🔭 Seeking to build data-driven models for real-world applications
-- 🌱 Developing Deep Learning and physics-based models for materials (small molecules like solvent, ions; big molecules like surfactant, polymers) and processes (like electrodialysis, electrodeionization, capacitive deionization).
+- 🌱 Developing data-driven and physics-based models for materials (small molecules like solvent, ions; big molecules like surfactant, polymers) and processes (like electrodialysis, electrodeionization, capacitive deionization).
+- Post PhD, I hope to join an R&D position where I can focus on developing sustainable materials and technologies.
+
+:bar_chart: My Stats: 
+
+<a href="https://git.io/awesome-stats-card">
+  <img height=200 align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/enthusiasticteslim?cardType=octocat&theme=tokyonight&preferLogin=true&card_width=320" />
+</a>
+
 
 # Interested in:
-- Chemical Modeling with Physics and Data-driven method
-- Chemometrics Data Engineering & Science 
+- Chemical Modeling with Physics-based and Data-driven approach
 - Computational Molecular design
 - Material & Process Optimization
 - Molecular Simulation of Materials
@@ -17,7 +23,7 @@ I am a **Chemical Engineering PhD candidate** at LSU in [Romagnoli Group](https:
 
 # Skills
 - Languages: Python, MATLAB
-- Machine learning: Scikit-Learn, TensorFlow, Keras, PyTorch, MLflow, Docker, Streamlit, PySpark
+- Machine learning: Scikit-Learn, TensorFlow, Keras, PyTorch, MLflow, Docker, Streamlit, PySpark, Terraform
 - Chemical Eng. & Chemistry: Aspen Plus, GROMACS, LAMMPS, Gaussian, Rdkit, Deep Graph Library (dgl).
 - Platforms: Linux, Git
 - Soft Skills: Research, Leadership, Event Management
