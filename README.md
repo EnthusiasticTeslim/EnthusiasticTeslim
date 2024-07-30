@@ -31,7 +31,7 @@ I am a **Chemical Engineering PhD candidate** at LSU in [Romagnoli Group](https:
 - Synthesis & characterization: Nanocrystals synthesis, catalyst synthesis, X-ray diffraction (XRD), Diffuse Reflectance IR Fourier Transform Spectroscopy (DRIFTS), UV etching and Design of Experiment.
 
 
-# Open Source Works:
+# Projects:
 - Bridging Physics and Data-Driven methods: Developed numerical model and machine learning (ML) model to perform optimization studies for two common electrochemical systems (electrodialysis and electrodeionization). [code](https://github.com/EnthusiasticTeslim/HybridEOS)
 - Transfer Learning for missing data: assess the possibility of resolving missing data with transfer learning. [code](https://github.com/EnthusiasticTeslim/ImputeNet)
 - Feature Embedding: Combined information from experiment, molecular structure and molecular simulation with machine learning to enhance predictive modeling of membrane properties. [code](https://github.com/ghisha1/ACTC_MD_ML)
