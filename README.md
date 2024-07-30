@@ -4,7 +4,7 @@ I am a **Chemical Engineering PhD candidate** at LSU in [Romagnoli Group](https:
          "Live as if you were to die tomorrow. Learn as if you were to live forever" 
                              - Mahatma Gandhi
 
-- 🌱 Developing data-driven and physics-based models for materials (small molecules like solvent, ions; big molecules like surfactant, polymers) and processes (like electrodialysis, electrodeionization, capacitive deionization).
+- 🌱 Developing data-driven and physics-based models for materials (small molecules like solvent; big molecules like surfactant, polymers) and processes (like deionization, CO2 reduction).
 - Post PhD, I hope to join an R&D position where I can focus on developing sustainable materials and technologies.
 
 :bar_chart: My Stats: 
