@@ -5,7 +5,8 @@ I am a **Chemical Engineering PhD candidate** at LSU in [Romagnoli Group](https:
                              - Mahatma Gandhi
 
 - 🌱 Developing data-driven and physics-based models for materials (small molecules like solvent; big molecules like surfactant, polymers) and processes (like deionization, CO2 reduction).
-- Post PhD, I hope to join an R&D position where I can focus on developing sustainable materials and technologies.
+- 🌱 Presently, I am working on the [Machine Learning Operations Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main) to enhance my skills in building and deploying machine learning models.
+- 🌱 Post PhD, I hope to join an R&D position where I can focus on developing sustainable materials and technologies.
 
 :bar_chart: My Stats: 
 
@@ -46,6 +47,7 @@ I am a **Chemical Engineering PhD candidate** at LSU in [Romagnoli Group](https:
 - Piano Music Generation: Trained two deep learning LSTM models as 1) critic of good or bad music and 2) composer to generate new music. Tools: Python, PyTorch, Scikit-Learn. [code](https://github.com/EnthusiasticTeslim/PianoGen)
 - Facial Recognition: Collaborated on the development of software utilizing Mediapipe + Blender framework to track facial structure and emotion classification via a trained CNN-based classifier. [code](https://github.com/EnthusiasticTeslim/PianoGen)
 - Tox24 challenge: Predict the in vitro activity of compounds from chemical structure. [Code](https://github.com/EnthusiasticTeslim/tox24competition)
+- LLM for Water Purification: Collaborated on applying prompt engineering to develop [chatbots](https://github.com/ViktoriiaBaib/WaterLLM) that guide researchers to the optimal water treatment solution for specific cases, based on contaminant composition, cost, and resource availability.
 
 
 
