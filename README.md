@@ -4,9 +4,13 @@ I am a **Chemical Engineering PhD candidate** at LSU in [Romagnoli Group](https:
          "Live as if you were to die tomorrow. Learn as if you were to live forever" 
                              - Mahatma Gandhi
 
-- 🌱 Developing data-driven and physics-based models for materials (small molecules like solvent; big molecules like surfactant, polymers) and processes (like deionization, CO2 reduction).
+- 🌱 I’m aspire to gain expertise in material and process simulations at all scales from atomistic to numerical and in applied machine learning to solve material science problems.
+- 👯 In my PhD, I worked on bridging knowledge from physics-based (e.g. molecular simulation and numerical modeling) and data-driven models for material and process simulation of electrochemical systems such as electrodialysis, electrodeionization, capactive deionization and CO2 electrolyzers. Also, I have worked on applying molecular simulation and artificial intelligence to accelerate molecular design.
+- 🔭 Prior to PhD, I have worked on bolstering HPAM polymer hydrodynamic size for high temperature & high salinity applications using molecular simulations.
 - 🌱 Presently, I am working on the [Machine Learning Operations Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main) to enhance my skills in building and deploying machine learning models.
-- 🌱 Post PhD, I hope to join an R&D position where I can focus on developing sustainable materials and technologies.
+- 🔭 Looking forward, I hope to join an R&D position where I can focus on developing sustainable materials and technologies.
+- 📫 You can to reach me on [LinkedIn](https://www.linkedin.com/in/teslim-olayiwola-58a997123/) or [Twitter](https://twitter.com/teslim404).
+- 💻 Here is the link to my [Personal website](https://teslim404.com/).
 
 :bar_chart: My Stats: 
 
