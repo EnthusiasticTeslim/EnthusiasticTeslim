@@ -57,7 +57,7 @@ I am a **Chemical Engineering PhD candidate** at LSU in [Romagnoli Group](https:
 
 
 # More
-+ Email: tolayi1-at-lsu.edu
++ Email: tolayiwola345-at-gmail.com or tolayi1-at-lsu.edu
 + LinkedIn: [Teslim Olayiwola](https://www.linkedin.com/in/teslim-olayiwola-58a997123/)
 + Twitter: [teslim404](https://twitter.com/teslim404)
 + Google Scholar: [Teslim Olayiwola](https://scholar.google.com/citations?user=ao5QlMgAAAAJ&hl=en)
