@@ -1,10 +1,11 @@
 # Hey Folks 👋
-I am a **Chemical Engineering PhD candidate** at LSU in [Romagnoli Group](https://pse.che.lsu.edu/)  utilizing the benefits of physics & machine learning to enhance the design of electrochemical systems. 
+I am a **ChemE PhD graduate** from [Romagnoli Group's](https://pse.che.lsu.edu/) at LSU utilizing the benefits of physics, data science and machine learning to enhance material design and operations of chemical systems. 
 
          "Live as if you were to die tomorrow. Learn as if you were to live forever" 
                              - Mahatma Gandhi
 
-- 🌱 I’m aspire to gain expertise in material and process simulations at all scales from atomistic to numerical and in applied machine learning to solve material science problems.
+- 🌱 I aspire to gain expertise in material and process simulations at all scales from atomistic to numerical and in applied machine learning to solve material science problems.
+- Presently, I am learning news skills to enhance my data science skills. `to be updated`
 - 👯 In my PhD, I worked on bridging knowledge from physics-based (e.g. molecular simulation and numerical modeling) and data-driven models for material and process simulation of electrochemical systems such as electrodialysis, electrodeionization, capactive deionization and CO2 electrolyzers. Also, I have worked on applying molecular simulation and artificial intelligence to accelerate molecular design.
 - 🔭 Prior to PhD, I have worked on bolstering HPAM polymer hydrodynamic size for high temperature & high salinity applications using molecular simulations.
 - 🌱 Outside my PhD work, I am working on the [MLOps](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main) & [ML deployment](https://github.com/DataTalksClub/machine-learning-zoomcamp) to enhance my skills in building and deploying machine learning models.
